@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ion-display-messages": [
+        "dist/ion-display-messages"
+      ],
+      "ion-display-messages/*": [
+        "dist/ion-display-messages/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,

@@ -1,0 +1,9 @@
+{
+  "name": "@honeycombdev/ion-display-messages",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14",
+    "ionicons": "^5.5.0"
+  }
+}
