@@ -1,5 +1,7 @@
 # IonDisplayMessages
 
+This library is to display messages in Ionic. <br />
+Recommendation: Ionic 5+ in the main project. <br />
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.14.
 
 ## Installation
@@ -26,7 +28,7 @@ IonDisplayMessagesComponent
     [dismissible]="true" 
     [icon]="true" 
     [type]="'error'">
-        {{errorMessage}}
+        {{MESSAGE}}
 </lib-ion-display-messages>
 ```
 
@@ -50,10 +52,10 @@ IonDisplayMessagesComponent
 
 ## Examples
 
-![example-success](./doc/example-success.png)
-![example-info](./doc/example-info.png)
-![example-warning](./doc/example-warning.png)
-![example-error](./doc/example-error.png)
+![example-success](https://github.com/fmalessio/lib-ion-display-messages/blob/master/projects/ion-display-messages/doc/example-success.png?raw=true)
+![example-info](https://github.com/fmalessio/lib-ion-display-messages/blob/master/projects/ion-display-messages/doc/example-info.png?raw=true)
+![example-warning](https://github.com/fmalessio/lib-ion-display-messages/blob/master/projects/ion-display-messages/doc/example-warning.png?raw=true)
+![example-error](https://github.com/fmalessio/lib-ion-display-messages/blob/master/projects/ion-display-messages/doc/example-error.png?raw=true)
 
 ## Code scaffolding
 
