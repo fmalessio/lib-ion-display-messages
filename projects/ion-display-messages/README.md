@@ -7,7 +7,7 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 ## Installation
 
 ```bash
-npm install ion-display-messages
+npm i @bluehorse/ion-display-messages
 ```
 
 ### Module
@@ -34,21 +34,12 @@ IonDisplayMessagesComponent
 
 ## Attributes
 
-| Atribute | type |
-| :------------- | :-------------: |
-| isVisible | boolean |
-| dismissible | boolean |
-| icon | boolean |
-| type | 'success'/'info'/'warning'/'error' |
-
-### Default values
-
-| Atribute | values |
-| :------------- | :-------------: |
-| isVisible | true |
-| dismissible | true |
-| icon | true |
-| type | 'info' |
+| Atribute | type | Default |
+| :------------- | :-------------: | :-------------: |
+| isVisible | boolean | true |
+| dismissible | boolean | true |
+| icon | boolean | true |
+| type | 'success'/'info'/'warning'/'error' | 'info' |
 
 ## Examples
 
